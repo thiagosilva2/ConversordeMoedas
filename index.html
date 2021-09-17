@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="style.css" rel="stylesheet" />
+    <title>Conversor de Moedas</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="page-title">Conversor de Moedas</h1>
+      <p class="page-subtitle">
+        Converta de Dolar para Real ou de Real para Dolar!
+      </p>
+
+      <br /><br />
+
+      <label for="moeda"> <strong>Insira o valor</strong> </label><br />
+      <input type="number" id="valor" size="2" /> <br />
+      <button type="submit" onclick="converter()">
+        <strong>ConverterR$</strong>
+      </button>
+      <button type="submit" onclick="converteu()">
+        <strong>ConverterU$</strong>
+      </button>
+      <h2 id="valorConvertido"></h2>
+      <h2 id="valorConversao"></h2>
+    </div>
+    <script src="Js.js"></script>
+  </body>
+</html>
