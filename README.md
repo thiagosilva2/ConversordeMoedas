@@ -7,14 +7,12 @@ A alteração que eu fiz foi de criar outro botão, e estilizar ele, deixando do
 
 Link do Projeto normal: https://lnkd.in/dAqV4f8x
 
-# LINK DO PROJETO QUE EU INCREMENTEI OUTRA  FUNÇÃO
-Link do meu Projeto com alterações: https://lnkd.in/dXNAmnuX
-
-O projeto acima eu incrementei por conta própria outra função com evento de onclick, criei outro botão usando html e estilizei  o mesmo usando css e dando interatividade  ao botão, ativando o evento através da função.
 
 # ÚLTIMA MODIFICAÇÃO 
 
 Eu não fiquei satisfeito e nem conformado com os primeiros projetos, então usei o meu conhecimento e o que eu aprendi, para criar outro do zero, e usei o Editor Vscode com algumas extensões, e desenvolvi  do zero o projeto, dando a ele um outro visual, usando a unidade de medida rem para deixar mais responsivo, fiz alterações na estilização dele e deixei ele literalmente com uma cara mais nova e do meu jeito.
+
+O projeto acima eu incrementei por conta própria outra função com evento de onclick, criei outro botão usando html e estilizei  o mesmo usando css e dando interatividade  ao botão, ativando o evento através da função.
 
 # Link deste Projeto Modificado/Atualizado :
 https://thiagosilva2.github.io/ConversordeMoedas/
